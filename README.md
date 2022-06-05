@@ -1,3 +1,7 @@
+<p>
+    <img alt="Readme" title="Readme" src="./img/logo1.png"/>
+</p>
+
 <h1 align="center">Comandos para uso diário do Git</h1>
 
 <ol>
