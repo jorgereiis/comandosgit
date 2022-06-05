@@ -1,5 +1,4 @@
-<h1 align="center">Comandos para uso diário do Git</h1>
-<img align="center" src="./imgs/logo2.png"/>
+<h1 align="center">Comandos para uso diário do Git <img src="./imgs/logo2.png"/></h1>
 
 <ol>
     <li><h3>git remote add origin git@github.com:userGitHub/nomeDoRepositório.git</h3></li> 
