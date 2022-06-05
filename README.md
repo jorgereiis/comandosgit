@@ -1,5 +1,5 @@
 <p>
-    <img src="./imgs/logo1.png"/>
+    <img src="./imgs/logo2.png"/>
 </p>
 
 <h1 align="center">Comandos para uso diário do Git</h1>
